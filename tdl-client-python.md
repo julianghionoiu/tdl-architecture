@@ -8,3 +8,4 @@ Submodules:
 
 - tdl-client-test-broker (broker)
 - tdl-client-test-wiremock (wiremock)
+- tdl-client-spec (gets cloned into test as features)
