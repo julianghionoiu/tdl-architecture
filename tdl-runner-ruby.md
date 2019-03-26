@@ -1,7 +1,7 @@
 # tdl-runner-ruby
 
 Repo: http://github.com/julianghionoiu/tdl-runner-ruby
-Language: Python
+Language: Ruby
 Deployment targets: local/Docker, CI
 
 Runtime Jar Dependency:

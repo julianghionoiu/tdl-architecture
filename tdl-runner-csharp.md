@@ -1,7 +1,7 @@
 # tdl-runner-csharp
 
 Repo: http://github.com/julianghionoiu/tdl-runner-csharp
-Language: Python
+Language: CSharp
 Deployment targets: local/Docker, CI
 
 Runtime Jar Dependency:

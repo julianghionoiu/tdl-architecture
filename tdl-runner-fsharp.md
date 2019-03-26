@@ -1,7 +1,7 @@
 # tdl-runner-fsharp
 
 Repo: http://github.com/julianghionoiu/tdl-runner-fsharp
-Language: Python
+Language: FSharp
 Deployment targets: local/Docker, CI
 
 Runtime Jar Dependency:

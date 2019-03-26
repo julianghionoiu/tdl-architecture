@@ -1,7 +1,7 @@
 # tdl-runner-scala
 
 Repo: http://github.com/julianghionoiu/tdl-runner-scala
-Language: Python
+Language: Python, Scala
 Deployment targets: local/Docker, CI
 
 Runtime Jar Dependency:
