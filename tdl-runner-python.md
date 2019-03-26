@@ -7,3 +7,7 @@ Deployment targets: local/Docker, CI
 JAR Dependency:
 
 - record/record-and-upload-capsule.jar
+
+Dependency:
+
+- tdl-client-python
