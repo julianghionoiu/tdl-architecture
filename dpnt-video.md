@@ -1,8 +1,8 @@
-# dpnt-coverage
+# dpnt-video
 
-Repo: http://github.com/julianghionoiu/dpnt-coverage
+Repo: http://github.com/julianghionoiu/dpnt-video
 Language: Python, Java
-Deployment targets: local/Docker, CI?, ECS, Lambda
+Deployment targets: local, CI?, ECS, Lambda
 
 Images/Containers:
 

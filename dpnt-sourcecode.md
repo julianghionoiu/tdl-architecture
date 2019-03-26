@@ -2,19 +2,7 @@
 
 Repo: http://github.com/julianghionoiu/dpnt-coverage
 Language: Python, Java
-Deployment targets: local/Docker, CI?, ECS, Lambda
-
-Images/Containers:
-
-- base
-- dotnet-base
-- csharp
-- fsharp
-- vbnet
-- java
-- scala
-- python
-- ruby
+Deployment targets: local/Docker, CI, ECS, Lambda
 
 Submodules:
 
