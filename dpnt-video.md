@@ -9,10 +9,10 @@ Deployment targets: local, CI?, ECS, Lambda
 Images/Containers:
 
 - base
-- dotnet-base
-- csharp
-- fsharp
-- vbnet
+	- dotnet-base
+		- csharp
+		- fsharp
+		- vbnet
 - java
 - scala
 - python
