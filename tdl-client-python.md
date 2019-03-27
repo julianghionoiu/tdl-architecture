@@ -1,7 +1,9 @@
 # tdl-client-python
 
 Repo: http://github.com/julianghionoiu/tdl-client-python
+
 Language: Python
+
 Deployment targets: local, CI
 
 Submodules:

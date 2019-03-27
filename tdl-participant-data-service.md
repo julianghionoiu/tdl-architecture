@@ -1,7 +1,9 @@
 # tdl-participant-data-service
 
 Repo: http://github.com/julianghionoiu/tdl-participant-data-service
+
 Language: Python, Java
+
 Deployment targets: local, CI, ECS
 
 JAR Dependency:

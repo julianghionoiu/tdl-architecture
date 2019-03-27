@@ -1,7 +1,9 @@
 # dpnt-video
 
 Repo: http://github.com/julianghionoiu/dpnt-video
+
 Language: Python, Java
+
 Deployment targets: local, CI?, ECS, Lambda
 
 Images/Containers:

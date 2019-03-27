@@ -1,7 +1,9 @@
 # tdl-local-ecs
 
 Repo: http://github.com/julianghionoiu/tdl-local-ecs
+
 Language: Python
+
 Deployment targets: local, CI?
 
 Submodule to:

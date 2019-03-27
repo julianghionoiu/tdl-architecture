@@ -1,7 +1,9 @@
 # tdl-client-nodejs
 
 Repo: http://github.com/julianghionoiu/tdl-client-nodejs
+
 Language: NodeJS (JavaScript), Python
+
 Deployment targets: local, CI
 
 Submodules:
