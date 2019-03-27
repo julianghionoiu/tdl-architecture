@@ -10,4 +10,4 @@ Runtime Jar Dependency:
 
 Dependency:
 
-- tdl-client-fsharp
+- [tdl-client-fsharp](tdl-client-fsharp.md)

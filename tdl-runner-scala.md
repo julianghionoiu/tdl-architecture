@@ -10,4 +10,4 @@ Runtime Jar Dependency:
 
 Dependency:
 
-- tdl-client-java
+- [tdl-client-java](tdl-client-java.md)

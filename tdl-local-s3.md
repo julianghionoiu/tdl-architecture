@@ -6,6 +6,6 @@ Deployment targets: local, CI?
 
 Submodule to:
 
-- dpnt-coverage
-- dpnt-sourcecode
-- dpnt-video
+- [dpnt-coverage](dpnt-coverage.md)
+- [dpnt-sourcecode](dpnt-sourcecode.md)
+- [dpnt-video](dpnt-video.md)

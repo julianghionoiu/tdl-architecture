@@ -10,5 +10,5 @@ JAR Dependency:
 
 Submodules:
 
-- tdl-local-ses (local-ses)
-- tdl-local-sqs (local-sqs)
+- [tdl-local-ses (local-ses)](tdl-local-ses.md)
+- [tdl-local-sqs (local-sqs)](tdl-local-sqs.md)

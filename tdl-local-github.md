@@ -6,4 +6,4 @@ Deployment targets: local, CI?
 
 Submodule to:
 
-- dpnt-sourcecode
+- [dpnt-sourcecode](dpnt-sourcecode.md)

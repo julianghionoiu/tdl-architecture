@@ -10,4 +10,4 @@ Runtime Jar Dependency:
 
 Dependency:
 
-- tdl-client-ruby
+- [tdl-client-ruby](tdl-client-ruby.md)

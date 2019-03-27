@@ -10,4 +10,4 @@ Runtime Jar Dependency:
 
 Dependency:
 
-- tdl-client-nodejs
+- [tdl-client-nodejs](tdl-client-nodejs.md)

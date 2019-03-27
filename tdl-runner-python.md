@@ -10,4 +10,4 @@ Runtime Jar Dependency:
 
 Dependency:
 
-- tdl-client-python
+- [tdl-client-python](tdl-client-python.md)

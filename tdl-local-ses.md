@@ -6,4 +6,4 @@ Deployment targets: local, CI?
 
 Submodule to:
 
-- tdl-participant-data-service
+- [tdl-participant-data-service](tdl-participant-data-service.md)

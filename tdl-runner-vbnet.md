@@ -10,4 +10,4 @@ Runtime Jar Dependency:
 
 Dependency:
 
-- tdl-client-vbnet
+- [tdl-client-vbnet](tdl-client-vbnet.md)
