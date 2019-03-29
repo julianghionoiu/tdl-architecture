@@ -2,7 +2,7 @@
 
 Repo: http://github.com/julianghionoiu/dpnt-coverage
 
-Language: Python, Java
+Language: [Python](python.md), Java
 
 Deployment targets: local/Docker, CI, ECS, Lambda
 

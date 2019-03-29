@@ -2,7 +2,7 @@
 
 Repo: http://github.com/julianghionoiu/tdl-runner-vbnet
 
-Language: Python, VB.net
+Language: [Python](python.md), VB.net
 
 Deployment targets: local/Docker, CI
 

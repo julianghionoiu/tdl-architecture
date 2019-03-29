@@ -2,7 +2,7 @@
 
 Repo: http://github.com/julianghionoiu/tdl-runner-python
 
-Language: Python
+Language: [Python](python.md)
 
 Deployment targets: local/Docker, CI
 

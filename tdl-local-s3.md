@@ -2,7 +2,7 @@
 
 Repo: http://github.com/julianghionoiu/tdl-local-s3
 
-Language: Python
+Language: [Python](python.md)
 
 Deployment targets: local, CI?
 

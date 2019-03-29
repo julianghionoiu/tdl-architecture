@@ -2,7 +2,7 @@
 
 Repo: http://github.com/julianghionoiu/tdl-client-dotnet
 
-Language: .net (C#), Python
+Language: .net (C#), [Python](python.md)
 
 Deployment targets: local, CI
 

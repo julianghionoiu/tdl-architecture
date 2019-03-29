@@ -2,7 +2,7 @@
 
 Repo: http://github.com/julianghionoiu/tdl-local-ecs
 
-Language: Python
+Language: [Python](python.md)
 
 Deployment targets: local, CI?
 

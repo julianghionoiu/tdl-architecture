@@ -2,7 +2,7 @@
 
 Repo: http://github.com/julianghionoiu/tdl-client-java
 
-Language: Java, Python
+Language: Java, [Python](python.md)
 
 Deployment targets: local, CI
 

@@ -2,7 +2,7 @@
 
 Repo: http://github.com/julianghionoiu/tdl-participant-data-service
 
-Language: Python, Java
+Language: [Python](python.md), Java
 
 Deployment targets: local, CI, ECS
 

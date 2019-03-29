@@ -2,7 +2,7 @@
 
 Repo: http://github.com/julianghionoiu/tdl-client-ruby
 
-Language: Ruby, Python
+Language: Ruby, [Python](python.md)
 
 Deployment targets: local, CI
 
