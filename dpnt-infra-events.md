@@ -1,4 +1,4 @@
-# dpnt-coverage
+# dpnt-infra-events
 
 Repo: http://github.com/julianghionoiu/dpnt-coverage
 
