@@ -2,7 +2,7 @@
 
 Repo: http://github.com/julianghionoiu/tdl-runner-scala
 
-Language: [Python](python.md), Scala
+Language: Scala
 
 Deployment targets: local/Docker, CI
 

@@ -12,4 +12,4 @@ Runtime Jar Dependency:
 
 Dependency:
 
-- [tdl-client-fsharp](tdl-client-fsharp.md)
+- [tdl-client-dotnet](tdl-client-dotnet.md)
