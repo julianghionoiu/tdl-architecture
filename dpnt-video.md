@@ -9,14 +9,6 @@ Deployment targets: local, CI?, ECS, Lambda
 Images/Containers:
 
 - base (Java 8, [Python](python.md))
-	- dotnet-base
-		- csharp
-		- fsharp
-		- vbnet
-- java
-- scala
-- [python](python.md)
-- ruby
 
 Submodules:
 

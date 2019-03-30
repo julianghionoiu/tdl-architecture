@@ -8,7 +8,9 @@ The below projects are implemented in python as indicated by the bullet points b
         - Prod/Dev/Test runtime
         * inside docker container 
             * see folder [container/images/base](https://github.com/julianghionoiu/dpnt-coverage/tree/master/container/images/base) in project root
+            * see folder [container/images/[dependent images of base]](https://github.com/julianghionoiu/dpnt-coverage/tree/master/container/images/[dependent images of base]) in project root
             * see folder [container/images/python](https://github.com/julianghionoiu/dpnt-coverage/tree/master/container/images/python) in project root
+            * 
     + [dpnt-infra-events](dpnt-infra-events.md)
         - python 3.7 
         - Prod/Dev/Test runtime
@@ -26,7 +28,6 @@ The below projects are implemented in python as indicated by the bullet points b
         * Prod/Dev/Test runtime
         * inside docker container 
             * see folder container/images/base in project root
-            * see folder container/images/python in project root
     + [tdl-participant-data-service](tdl-participant-data-service.md)
         + python 3.7 
         + Dev/Test runtime
